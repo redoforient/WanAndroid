@@ -22,7 +22,6 @@
             android:layout_marginStart="8dp"
             android:layout_marginLeft="8dp"
             android:layout_marginTop="12dp"
-            android:background="@drawable/item_imgselector"
             android:text="有何高见"
             android:background="@drawable/item_imgselector"
             android:textColor="@color/colorBlack666"
